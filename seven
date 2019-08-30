@@ -1,0 +1,4 @@
+
+git config --global code.editor ""
+git config --global code.editor "vim"
+git config --global --list
